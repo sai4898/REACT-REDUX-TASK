@@ -15,7 +15,7 @@ const Header = () => {
     
   return (
     <>
-     <Navbar bg="dark" variant="dark" style={{ height:'60px' }}>
+     <Navbar bg="dark" variant="dark" style={{ height:'61px' }}>
         <Container>
           <NavLink to='/' className='text-decoration-none text-light mx-3 font-size-22'>Home</NavLink>
          
